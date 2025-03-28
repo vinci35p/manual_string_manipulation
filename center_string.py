@@ -9,4 +9,7 @@ total_spaces = max(0, parameter - len(user_char))
 left = total_spaces // 2
 right = total_spaces - left
 
+centered_char = " " * left + user_char + " " * right
+
 # Print the result
+print(centered_char)
