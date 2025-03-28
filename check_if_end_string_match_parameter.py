@@ -1,5 +1,7 @@
-# Input full name
+# Input sentence
 
-# Set parameter for end string part, and decide if inputted value matches
+# Input word to check if it matches the end of first input
+
+# Decide if inputted value matches
 
 # Print decision
